@@ -84,3 +84,4 @@ go build -o bin/zoo ./cmd/zoo
 - Добавить новые виды животных (слон, черепаха...)
 - Реализовать HTTP API поверх пакета `storage` (например, `GET /animals`)
 - Добавить учёт здоровья животных и метод `Treat()` у `Veterinarian`
+meow
